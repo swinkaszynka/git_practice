@@ -101,7 +101,4 @@ findInvalidCards(batch);
 console.log(JSON.stringify(invalidCards));
 console.log(JSON.stringify(idInvalidCardsCompanies(invalidCards)));
 
-
-
-
-
+//check changes
